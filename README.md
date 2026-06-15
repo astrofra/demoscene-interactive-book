@@ -23,4 +23,17 @@ An interactive tool built on HARFANG 3D to show what demoscene is about
 
 -----
 
+### Credits
+
+_Includes video captures of the following productions:_
+- Road to Valhalla, by Julien JDM & Resistance (2017)
+- Megapole, by RedSector Inc. (2015)
+- Remnants, pbyar Alcatraz (2024)
+- Bones of civilization, by Fulcrum (2025)
+- Rau, by Nuance (2025)
+- Offscreen Colonies, by Conspiracy (2015)
+- Brute Concrete, by Digital Dynamite & United Force (2025)
+- Hold-And-Modify, by CNCD & Fairlight (2015)
+- Algorave : la teuf en open source, by Tracks / Arte  (2025)
+
 _Based on [HARFANG 3D](https://github.com/astrofra/harfang3d)_
