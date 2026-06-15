@@ -1,0 +1,7 @@
+{
+	"features": ["OptionalBaseColorOpacityMap", "OptionalOcclusionRoughnessMetalnessMap", "OptionalNormalMap", "OptionalSelfMap", "OptionalAlphaCut", "OptionalAmbientMap", "OptionalSkinning"],
+	"uniforms": [
+		{"name": "uParam", "type": "Vec4", "value": [1.0, 0.0, 0.0, 0.0]}
+	]
+
+}

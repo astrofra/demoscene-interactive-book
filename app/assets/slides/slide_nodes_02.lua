@@ -1,0 +1,18 @@
+return {
+    "bullets",
+    "photo5",
+    "photo4",
+    "photo3",
+    "photo2",
+    "photo1",
+    "photo0",
+    "separator",
+    "text3",
+    "text2",
+    "text1",
+    "text0",
+    "slide_title",
+    "title_decoration",
+    "page_square",
+    "page_02",
+}

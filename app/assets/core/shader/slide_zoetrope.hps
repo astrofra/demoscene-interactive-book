@@ -1,0 +1,8 @@
+{
+	"features": ["OptionalBaseColorOpacityMap", "OptionalSelfMap"],
+	"uniforms": [
+					{"name": "uCustom", "type": "Vec4", "value": [1.1, 1.0, 0.0, 0.0]},
+					{"name": "uFade", "type": "Vec4", "value": [1.0, 0.0, 0.0, 0.0]},
+					{"name": "uFramerate", "type": "Vec4", "value": [30.0, 0.0, 0.0, 0.0]}
+				]
+}

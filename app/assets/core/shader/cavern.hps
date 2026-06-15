@@ -1,0 +1,7 @@
+{
+	"features": ["OptionalBaseColorOpacityMap"],
+	"uniforms": [
+					{"name": "uCamDir", "type": "Vec4", "value": [0.0, 0.0, 1.0, 0.0]},
+					{"name": "uFade", "type": "Vec4", "value": [1.0, 0.0, 0.0, 0.0]}
+				]
+}

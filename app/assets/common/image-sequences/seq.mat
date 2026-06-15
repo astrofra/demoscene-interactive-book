@@ -1,0 +1,66 @@
+{
+	"blend_mode": "alpha",
+	"depth_test": "less",
+	"face_culling": "cw",
+	"flags": [],
+	"program": "core/shader/slide_zoetrope.hps",
+	"textures": [
+		{
+			"name": "uBaseOpacityMap",
+			"path": "slides/slide_03_smart_object_layer_photo0_size_1937x1486_1.png",
+			"stage": 0
+		},
+		{
+			"name": "uSelfMap",
+			"path": "common/image-sequences/bonjour_madame_seq.png",
+			"stage": 4
+		}
+	],
+	"values": [
+		{
+			"name": "uBaseOpacityColor",
+			"type": "vec4",
+			"value": [
+				1.0,
+				0.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"name": "uCustom",
+			"type": "vec4",
+			"value": [
+				1.149999976158142,
+				1.2000000476837158,
+				-0.07500000298023224,
+				0.0
+			]
+		},
+		{
+			"name": "uFramerate",
+			"type": "vec4",
+			"value": [
+				12.0,
+				0.0,
+				0.0,
+				0.0
+			]
+		},
+		{
+			"name": "uSelfColor",
+			"type": "vec4",
+			"value": [
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			]
+		}
+	],
+	"write_a": true,
+	"write_b": true,
+	"write_g": true,
+	"write_r": true,
+	"write_z": false
+}
