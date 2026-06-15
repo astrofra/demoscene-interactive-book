@@ -20,3 +20,7 @@ An interactive tool built on HARFANG 3D to show what demoscene is about
 ## How to use it?
 
 - check here : https://github.com/astrofra/demoscene-interactive-book/releases
+
+-----
+
+_Based on [HARFANG 3D](https://github.com/astrofra/harfang3d)_
