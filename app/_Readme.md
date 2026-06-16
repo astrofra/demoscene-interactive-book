@@ -17,4 +17,4 @@
 
 - Pour passer d'une slide à l'autre : :black_square_button: & :red_circle:
 - À l'intérieur d'une slide, pour passer d'un sujet à l'autre : :small_red_triangle: & :x:
-- Slide 02 : Slide 02 : pour "piloter" dans la Caverne, utilisez le stick analogique droit et les gâchettes.
+- Slide 02 : pour "piloter" dans la Caverne, utilisez le stick analogique droit et les gâchettes.
